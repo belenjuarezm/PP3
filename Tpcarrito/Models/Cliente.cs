@@ -8,7 +8,7 @@ namespace Tpcarrito.models
         public Cliente()
         {
             Carritos = new HashSet<Carrito>();
-            Venta = new HashSet<Ventum>();
+            Venta = new HashSet<Venta>();
         }
 
         public int IdCliente { get; set; }
@@ -18,6 +18,6 @@ namespace Tpcarrito.models
         public string? Celular { get; set; }
 
         public virtual ICollection<Carrito> Carritos { get; set; }
-        public virtual ICollection<Ventum> Venta { get; set; }
+        public virtual ICollection<Venta> Venta { get; set; }
     }
 }

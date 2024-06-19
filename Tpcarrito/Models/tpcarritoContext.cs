@@ -17,11 +17,11 @@ namespace Tpcarrito.models
         }
 
         public virtual DbSet<Carrito> Carritos { get; set; } = null!;
-        public virtual DbSet<Categorium> Categoria { get; set; } = null!;
+        public virtual DbSet<Categoria> Categoria { get; set; } = null!;
         public virtual DbSet<Cliente> Clientes { get; set; } = null!;
-        public virtual DbSet<DetalleVentum> DetalleVenta { get; set; } = null!;
+        public virtual DbSet<DetalleVenta> DetalleVenta { get; set; } = null!;
         public virtual DbSet<Producto> Productos { get; set; } = null!;
-        public virtual DbSet<Ventum> Venta { get; set; } = null!;
+        public virtual DbSet<Venta> Venta { get; set; } = null!;
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -52,7 +52,7 @@ namespace Tpcarrito.models
                     .HasConstraintName("FK__CARRITO__IdProdu__37A5467C");
             });
 
-            modelBuilder.Entity<Categorium>(entity =>
+            modelBuilder.Entity<Categoria>(entity =>
             {
                 entity.HasKey(e => e.IdCategoria)
                     .HasName("PK__Categori__A3C02A1046C8F50F");
@@ -86,7 +86,7 @@ namespace Tpcarrito.models
                     .IsUnicode(false);
             });
 
-            modelBuilder.Entity<DetalleVentum>(entity =>
+            modelBuilder.Entity<DetalleVenta>(entity =>
             {
                 entity.HasKey(e => e.IdDetalleVenta)
                     .HasName("PK__Detalle___0C2BD9A7C65B76E2");
@@ -145,7 +145,7 @@ namespace Tpcarrito.models
                     .HasConstraintName("FK__Producto__IdCate__32E0915F");
             });
 
-            modelBuilder.Entity<Ventum>(entity =>
+            modelBuilder.Entity<Venta>(entity =>
             {
                 entity.HasKey(e => e.IdVenta)
                     .HasName("PK__Venta__BC1240BD9AB25961");

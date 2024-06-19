@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tpcarrito")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1822c4c7fac7034f33d0fb94b3ea7016f5ea2ea9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tpcarrito")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tpcarrito")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

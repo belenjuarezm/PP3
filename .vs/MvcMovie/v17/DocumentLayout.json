@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Programacion\\Ultimo Trabajo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2851693-95E4-42DC-919D-9C69D920CA27}|Tpcarrito\\Tpcarrito.csproj|c:\\users\\usuario\\desktop\\programacion\\ultimo trabajo\\tpcarrito\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2851693-95E4-42DC-919D-9C69D920CA27}|Tpcarrito\\Tpcarrito.csproj|solutionrelative:tpcarrito\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2851693-95E4-42DC-919D-9C69D920CA27}|Tpcarrito\\Tpcarrito.csproj|c:\\users\\usuario\\desktop\\programacion\\ultimo trabajo\\tpcarrito\\views\\producto\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2851693-95E4-42DC-919D-9C69D920CA27}|Tpcarrito\\Tpcarrito.csproj|solutionrelative:tpcarrito\\views\\producto\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2851693-95E4-42DC-919D-9C69D920CA27}|Tpcarrito\\Tpcarrito.csproj|c:\\users\\usuario\\desktop\\programacion\\ultimo trabajo\\tpcarrito\\views\\producto\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2851693-95E4-42DC-919D-9C69D920CA27}|Tpcarrito\\Tpcarrito.csproj|solutionrelative:tpcarrito\\views\\producto\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2851693-95E4-42DC-919D-9C69D920CA27}|Tpcarrito\\Tpcarrito.csproj|c:\\users\\usuario\\desktop\\programacion\\ultimo trabajo\\tpcarrito\\views\\producto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2851693-95E4-42DC-919D-9C69D920CA27}|Tpcarrito\\Tpcarrito.csproj|solutionrelative:tpcarrito\\views\\producto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2851693-95E4-42DC-919D-9C69D920CA27}|Tpcarrito\\Tpcarrito.csproj|c:\\users\\usuario\\desktop\\programacion\\ultimo trabajo\\tpcarrito\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2851693-95E4-42DC-919D-9C69D920CA27}|Tpcarrito\\Tpcarrito.csproj|solutionrelative:tpcarrito\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2851693-95E4-42DC-919D-9C69D920CA27}|Tpcarrito\\Tpcarrito.csproj|c:\\users\\usuario\\desktop\\programacion\\ultimo trabajo\\tpcarrito\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2851693-95E4-42DC-919D-9C69D920CA27}|Tpcarrito\\Tpcarrito.csproj|solutionrelative:tpcarrito\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2851693-95E4-42DC-919D-9C69D920CA27}|Tpcarrito\\Tpcarrito.csproj|c:\\users\\usuario\\desktop\\programacion\\ultimo trabajo\\tpcarrito\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2851693-95E4-42DC-919D-9C69D920CA27}|Tpcarrito\\Tpcarrito.csproj|solutionrelative:tpcarrito\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2851693-95E4-42DC-919D-9C69D920CA27}|Tpcarrito\\Tpcarrito.csproj|c:\\users\\usuario\\desktop\\programacion\\ultimo trabajo\\tpcarrito\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2851693-95E4-42DC-919D-9C69D920CA27}|Tpcarrito\\Tpcarrito.csproj|solutionrelative:tpcarrito\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2851693-95E4-42DC-919D-9C69D920CA27}|Tpcarrito\\Tpcarrito.csproj|c:\\users\\usuario\\desktop\\programacion\\ultimo trabajo\\tpcarrito\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2851693-95E4-42DC-919D-9C69D920CA27}|Tpcarrito\\Tpcarrito.csproj|solutionrelative:tpcarrito\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2851693-95E4-42DC-919D-9C69D920CA27}|Tpcarrito\\Tpcarrito.csproj|c:\\users\\usuario\\desktop\\programacion\\ultimo trabajo\\tpcarrito\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2851693-95E4-42DC-919D-9C69D920CA27}|Tpcarrito\\Tpcarrito.csproj|solutionrelative:tpcarrito\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2851693-95E4-42DC-919D-9C69D920CA27}|Tpcarrito\\Tpcarrito.csproj|c:\\users\\usuario\\desktop\\programacion\\ultimo trabajo\\tpcarrito\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2851693-95E4-42DC-919D-9C69D920CA27}|Tpcarrito\\Tpcarrito.csproj|solutionrelative:tpcarrito\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2851693-95E4-42DC-919D-9C69D920CA27}|Tpcarrito\\Tpcarrito.csproj|c:\\users\\usuario\\desktop\\programacion\\ultimo trabajo\\tpcarrito\\models\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2851693-95E4-42DC-919D-9C69D920CA27}|Tpcarrito\\Tpcarrito.csproj|solutionrelative:tpcarrito\\models\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2851693-95E4-42DC-919D-9C69D920CA27}|Tpcarrito\\Tpcarrito.csproj|c:\\users\\usuario\\desktop\\programacion\\ultimo trabajo\\tpcarrito\\models\\tpcarritocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2851693-95E4-42DC-919D-9C69D920CA27}|Tpcarrito\\Tpcarrito.csproj|solutionrelative:tpcarrito\\models\\tpcarritocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2851693-95E4-42DC-919D-9C69D920CA27}|Tpcarrito\\Tpcarrito.csproj|c:\\users\\usuario\\desktop\\programacion\\ultimo trabajo\\tpcarrito\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2851693-95E4-42DC-919D-9C69D920CA27}|Tpcarrito\\Tpcarrito.csproj|solutionrelative:tpcarrito\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Programacion\\Ultimo Trabajo\\Tpcarrito\\appsettings.json",
+              "RelativeDocumentMoniker": "Tpcarrito\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Programacion\\Ultimo Trabajo\\Tpcarrito\\appsettings.json",
+              "RelativeToolTip": "Tpcarrito\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T21:42:56.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Programacion\\Ultimo Trabajo\\Tpcarrito\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Tpcarrito\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Programacion\\Ultimo Trabajo\\Tpcarrito\\Models\\Categoria.cs",
+              "RelativeToolTip": "Tpcarrito\\Models\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T21:45:13.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DetalleVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Programacion\\Ultimo Trabajo\\Tpcarrito\\Models\\DetalleVenta.cs",
+              "RelativeDocumentMoniker": "Tpcarrito\\Models\\DetalleVenta.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Programacion\\Ultimo Trabajo\\Tpcarrito\\Models\\DetalleVenta.cs",
+              "RelativeToolTip": "Tpcarrito\\Models\\DetalleVenta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T21:45:20.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Programacion\\Ultimo Trabajo\\Tpcarrito\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "Tpcarrito\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Programacion\\Ultimo Trabajo\\Tpcarrito\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "Tpcarrito\\Controllers\\CategoriasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T21:46:35.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Programacion\\Ultimo Trabajo\\Tpcarrito\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Tpcarrito\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Programacion\\Ultimo Trabajo\\Tpcarrito\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Tpcarrito\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAIwJcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T21:47:05.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Programacion\\Ultimo Trabajo\\Tpcarrito\\Views\\Producto\\Create.cshtml",
+              "RelativeDocumentMoniker": "Tpcarrito\\Views\\Producto\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Programacion\\Ultimo Trabajo\\Tpcarrito\\Views\\Producto\\Create.cshtml",
+              "RelativeToolTip": "Tpcarrito\\Views\\Producto\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T21:47:42.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Programacion\\Ultimo Trabajo\\Tpcarrito\\Views\\Producto\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Tpcarrito\\Views\\Producto\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Programacion\\Ultimo Trabajo\\Tpcarrito\\Views\\Producto\\Delete.cshtml",
+              "RelativeToolTip": "Tpcarrito\\Views\\Producto\\Delete.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwCEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T21:48:07.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Programacion\\Ultimo Trabajo\\Tpcarrito\\Views\\Producto\\Details.cshtml",
+              "RelativeDocumentMoniker": "Tpcarrito\\Views\\Producto\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Programacion\\Ultimo Trabajo\\Tpcarrito\\Views\\Producto\\Details.cshtml",
+              "RelativeToolTip": "Tpcarrito\\Views\\Producto\\Details.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwBsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T21:48:16.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Programacion\\Ultimo Trabajo\\Tpcarrito\\Views\\Producto\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Tpcarrito\\Views\\Producto\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Programacion\\Ultimo Trabajo\\Tpcarrito\\Views\\Producto\\Edit.cshtml",
+              "RelativeToolTip": "Tpcarrito\\Views\\Producto\\Edit.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCEAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T21:48:20.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Programacion\\Ultimo Trabajo\\Tpcarrito\\Views\\Producto\\Index.cshtml",
+              "RelativeDocumentMoniker": "Tpcarrito\\Views\\Producto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Programacion\\Ultimo Trabajo\\Tpcarrito\\Views\\Producto\\Index.cshtml",
+              "RelativeToolTip": "Tpcarrito\\Views\\Producto\\Index.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAYwCwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T21:48:35.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Programacion\\Ultimo Trabajo\\Tpcarrito\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Tpcarrito\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Programacion\\Ultimo Trabajo\\Tpcarrito\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Tpcarrito\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwDMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T21:49:58.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Programacion\\Ultimo Trabajo\\Tpcarrito\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Tpcarrito\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Programacion\\Ultimo Trabajo\\Tpcarrito\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Tpcarrito\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T21:42:56.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "tpcarritoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Programacion\\Ultimo Trabajo\\Tpcarrito\\Models\\tpcarritoContext.cs",
+              "RelativeDocumentMoniker": "Tpcarrito\\Models\\tpcarritoContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Programacion\\Ultimo Trabajo\\Tpcarrito\\Models\\tpcarritoContext.cs",
+              "RelativeToolTip": "Tpcarrito\\Models\\tpcarritoContext.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA5wCYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T21:42:56.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Programacion\\Ultimo Trabajo\\Tpcarrito\\Program.cs",
+              "RelativeDocumentMoniker": "Tpcarrito\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Programacion\\Ultimo Trabajo\\Tpcarrito\\Program.cs",
+              "RelativeToolTip": "Tpcarrito\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T21:42:56.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

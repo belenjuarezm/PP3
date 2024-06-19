@@ -3,11 +3,11 @@ using System.Collections.Generic;
 
 namespace Tpcarrito.models
 {
-    public partial class Ventum
+    public partial class Venta
     {
-        public Ventum()
+        public Venta()
         {
-            DetalleVenta = new HashSet<DetalleVentum>();
+            DetalleVenta = new HashSet<DetalleVenta>();
         }
 
         public int IdVenta { get; set; }
@@ -17,6 +17,6 @@ namespace Tpcarrito.models
         public DateTime? FechaVenta { get; set; }
 
         public virtual Cliente? IdClienteNavigation { get; set; }
-        public virtual ICollection<DetalleVentum> DetalleVenta { get; set; }
+        public virtual ICollection<DetalleVenta> DetalleVenta { get; set; }
     }
 }

@@ -8,7 +8,7 @@ namespace Tpcarrito.models
         public Producto()
         {
             Carritos = new HashSet<Carrito>();
-            DetalleVenta = new HashSet<DetalleVentum>();
+            DetalleVenta = new HashSet<DetalleVenta>();
         }
 
         public int IdProducto { get; set; }
@@ -20,8 +20,8 @@ namespace Tpcarrito.models
         public string? NombreImagen { get; set; }
         public DateTime? FechaCarga { get; set; }
 
-        public virtual Categorium? IdCategoriaNavigation { get; set; }
+        public virtual Categoria? IdCategoriaNavigation { get; set; }
         public virtual ICollection<Carrito> Carritos { get; set; }
-        public virtual ICollection<DetalleVentum> DetalleVenta { get; set; }
+        public virtual ICollection<DetalleVenta> DetalleVenta { get; set; }
     }
 }
